@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  Pruebas de escenarios con Amazon en Suite 4
+Documentation  Pruebas de escenarios con Amazon en Suite 4 - Modif para Git/Jenkins
 Library  SeleniumLibrary
 Resource  ../Resources/common.robot
 Library  ../External/common.py
